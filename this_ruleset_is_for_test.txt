@@ -445,12 +445,12 @@ IP-CIDR,192.147.130.166/32,no-resolve
 IP-CIDR6,2600:1417:8000:9b0::11e2/128,no-re/32,no-resolve
 IP-CIDR6,2600:1417:8000:9ae::11e2/128,no-re/32,no-resolve
 
-Altium
+# Altium
 IP-CIDR,34.195.31.156/32,no-resolve
 IP-CIDR,51.75.242.21/32,no-resolve
 IP-CIDR,107.23.107.161/32,no-resolve
 
-EPLAN
+# EPLAN
 IP-CIDR,13.107.246.50/32,no-resolve
 IP-CIDR,13.107.213.50/32,no-resolve
 IP-CIDR,23.97.210.107/32,no-resolve
@@ -466,7 +466,7 @@ IP-CIDR,52.233.250.142/32,no-resolve
 IP-CIDR,85.214.222.122/32,no-resolve
 IP-CIDR,116.203.49.238/32,no-resolve
 
-UG NX
+# UG NX
 IP-CIDR,3.208.202.97/32,no-resolve
 IP-CIDR,3.209.64.58/32,no-resolve
 IP-CIDR,52.40.206.188/32,no-resolve
@@ -477,7 +477,7 @@ IP-CIDR,152.195.13.36/32,no-resolve
 IP-CIDR,157.240.21.9/32,no-resolve
 IP-CIDR,172.217.163.42/32,no-resolve
 
-Corel
+# Corel
 IP-CIDR,3.232.224.84/32,no-resolve
 IP-CIDR,13.226.210.21/32,no-resolve
 IP-CIDR,13.226.210.23/32,no-resolve
@@ -536,5 +536,5 @@ IP-CIDR6,fe80::f562:ef92:2c6d:3df8/128,no-re/32,no-resolve
 
 
 
-其他
+# 其他
 IP-CIDR,151.101.110.132/32,no-resolve
